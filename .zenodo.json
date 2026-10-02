@@ -1,0 +1,40 @@
+{
+  "upload_type": "dataset",
+  "title": "Prediction Market Lawsuit Tracker dataset",
+  "description": "<p>Federal lawsuits, appeals and bills about prediction markets in the United States. The case files cover federal district-court cases and appeals involving Kalshi, Polymarket, Crypto.com and Robinhood, classified by who is suing whom (platform v. state, state or city v. platform, tribe v. platform, platform v. CFTC, private and class actions, loss-recovery suits, trademark). Private suits that are one customer's own dispute or a marketing complaint are listed in a separate file and left out of the totals. The bills file covers state bills and bills in Congress that address prediction markets or event contracts, with LegiScan status.</p><p>Compiled by PredictionScout from public court records (CourtListener RECAP docket information from PACER) and public bill records (LegiScan). Every docket and bill is checked by hand before it is added; anything not fully confirmed is flagged. Individual plaintiffs are not named. The data is docket metadata, not case outcomes, and covers federal courts only.</p><p>Updated weekly. Live tracker with charts and notes: https://predictionscout.com/research/prediction-market-lawsuit-tracker/</p><p>Research dataset, not legal advice.</p>",
+  "creators": [
+    {
+      "name": "Angelo, Arthur",
+      "affiliation": "PredictionScout"
+    },
+    {
+      "name": "PredictionScout"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "prediction markets",
+    "event contracts",
+    "litigation",
+    "lawsuits",
+    "Kalshi",
+    "Polymarket",
+    "Crypto.com",
+    "Robinhood",
+    "CFTC",
+    "Commodity Exchange Act",
+    "federal preemption",
+    "sports betting",
+    "state legislation",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://predictionscout.com/research/prediction-market-lawsuit-tracker/",
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "resource_type": "other"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to https://predictionscout.com/research/prediction-market-lawsuit-tracker/."
+type: dataset
+title: "Prediction Market Lawsuit Tracker dataset"
+abstract: "Federal lawsuits, appeals and state and congressional bills about prediction markets in the United States, covering Kalshi, Polymarket, Crypto.com and Robinhood. Compiled by PredictionScout from public court records (CourtListener/PACER docket information) and public bill records (LegiScan), with each docket and bill checked by hand. Updated weekly."
+authors:
+  - family-names: "Angelo"
+    given-names: "Arthur"
+    affiliation: "PredictionScout"
+  - name: "PredictionScout"
+    website: "https://predictionscout.com"
+url: "https://predictionscout.com/research/prediction-market-lawsuit-tracker/"
+repository: "https://github.com/jameyriley46-ux/predictionscout-prediction-market-lawsuits"
+license: CC-BY-4.0
+version: "2026-10-02"
+date-released: "2026-10-02"
+keywords:
+  - prediction markets
+  - event contracts
+  - litigation
+  - lawsuits
+  - Kalshi
+  - Polymarket
+  - Crypto.com
+  - Robinhood
+  - CFTC
+  - Commodity Exchange Act
+  - federal preemption
+  - sports betting
+  - state legislation
+  - open data
