@@ -5,7 +5,7 @@ Federal lawsuits, appeals and bills about prediction markets in the United State
 PredictionScout compiles this dataset from public court records and public bill records. It is the data behind the live tracker at **https://predictionscout.com/research/prediction-market-lawsuit-tracker/**, which has the charts, a state-by-state table and plain-English notes on each case. The live page is updated weekly, and so is this repository.
 
 <!-- snapshot:start -->
-**Data as of Oct 2, 2026, 2:24 AM ET.**
+**Data as of Oct 5, 2026, 8:20 AM ET.**
 
 | File | Rows | What it holds |
 |---|---|---|
